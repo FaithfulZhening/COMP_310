@@ -1,0 +1,33 @@
+Client 1 has 14 pages to print from source 0, puts request in Buffer
+Printer 0 starts printing 14 pages from client 0, source 1
+Printer 0 finishes printing 14 pages from client 1, source 1
+Client 2 has 9 pages to print from source 1, puts request in Buffer
+Client 3 has 0 pages to print from source 2, puts request in Buffer
+Printer 0 starts printing 0 pages from client 2, source 3
+Printer 0 finishes printing 0 pages from client 3, source 3
+Client 4 has 7 pages to print from source 3, puts request in Buffer
+Client 5 has 8 pages to print from source 4, puts request in Buffer
+Client 6 has 6 pages to print from source 5, puts request in Buffer
+Client 7 has 1 pages to print from source 6, puts request in Buffer
+Printer 1 starts printing 9 pages from client 1, source 2
+Printer 1 finishes printing 9 pages from client 2, source 2
+Client 8 has 3 pages to print from source 7, puts request in Buffer
+Printer 1 starts printing 8 pages from client 4, source 5
+Printer 1 finishes printing 8 pages from client 5, source 5
+Printer 0 starts printing 7 pages from client 3, source 4
+Printer 0 finishes printing 7 pages from client 4, source 4
+Client 9 has 2 pages to print from source 8, puts request in Buffer
+Client 10 has 10 pages to print from source 9, puts request in Buffer
+Client 11 has 10 pages to print from source 10, puts request in Buffer
+Printer 0 starts printing 1 pages from client 6, source 7
+Printer 0 finishes printing 1 pages from client 7, source 7
+Printer 0 starts printing 3 pages from client 7, source 8
+Printer 0 finishes printing 3 pages from client 8, source 8
+Printer 1 starts printing 6 pages from client 5, source 6
+Printer 1 finishes printing 6 pages from client 6, source 6
+Printer 1 starts printing 10 pages from client 9, source 10
+Printer 1 finishes printing 10 pages from client 10, source 10
+Printer 1 starts printing 10 pages from client 10, source 11
+Printer 1 finishes printing 10 pages from client 11, source 11
+Printer 0 starts printing 2 pages from client 8, source 9
+Printer 0 finishes printing 2 pages from client 9, source 9
